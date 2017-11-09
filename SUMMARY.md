@@ -15,6 +15,7 @@
     * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
     * [Number of threads](java-low-level-rest-client/common-configuration/number-of-threads.md)
     * [Basic authentication](java-low-level-rest-client/common-configuration/basic-authentication.md)
+    * [Encrypted communication](java-low-level-rest-client/common-configuration/encrypted-communication.md)
   * [Sniffer](java-low-level-rest-client/sniffer.md)
     * [Javadoc](java-low-level-rest-client/sniffer/javadoc.md)
 * [Java High Level REST Client](java-high-level-rest-client.md)
