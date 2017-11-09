@@ -1,0 +1,7 @@
+# 使用一个新的Java客户端的动机
+
+自从第一次提交以来，现有的TransportClient已经成为Elasticsearch的一部分。 它是一个特殊的客户端，因为它使用传输协议与Elasticsearch进行通信，如果客户端的Elasticsearch实例与Elasticsearch实例的版本不同，则会导致兼容性问题。
+
+我们在2016年发布了一个低级别的REST客户端，它基于众所周知的Apache HTTP客户端，并且允许在任何版本中使用HTTP与Elasticsearch集群进行通信。 最重要的是，我们发布了基于低级客户端的高级REST客户端，但是负责请求编组和响应解组。
+
+如果您有兴趣了解更多关于这些变化的信息，我们写了一篇关于官方Elasticsearch Java客户端状态的博客文章。

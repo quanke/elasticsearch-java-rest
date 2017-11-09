@@ -41,7 +41,7 @@
     * [Info API](java-high-level-rest-client/supported-apis/info-api.md)
   * [Using Java Builders](java-high-level-rest-client/using-java-builders.md)
     * [Building Queries](java-high-level-rest-client/using-java-builders/building-queries.md)
-    * Building Aggregations
+    * [Building Aggregations](java-high-level-rest-client/using-java-builders/building-aggregations.md)
   * [Migration Guide](java-high-level-rest-client/migration-guide.md)
     * [Motivations around a new Java client](java-high-level-rest-client/migration-guide/motivations-around-a-new-java-client.md)
     * [Prerequisite](java-high-level-rest-client/migration-guide/prerequisite.md)
