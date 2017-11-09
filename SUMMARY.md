@@ -4,5 +4,7 @@
 * [Java Low Level REST Client](java-low-level-rest-client.md)
   * [Getting started](java-low-level-rest-client/getting-started.md)
     * [Javadoc](java-low-level-rest-client/getting-started/javadoc.md)
+  * [Common configuration](java-low-level-rest-client/common-configuration.md)
+    * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
 * Java High Level REST Client
 
