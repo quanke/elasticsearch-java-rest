@@ -1,4 +1,4 @@
-# Elasticsearch Java API 手册
+# Elasticsearch Java Rest API 手册
 
 ![](/assets/Cover_400_600.jpg)
 
