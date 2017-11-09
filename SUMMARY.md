@@ -14,5 +14,5 @@
   * [Supported APIs](java-high-level-rest-client/supported-apis.md)
     * [Index API](java-high-level-rest-client/supported-apis/index-api.md)
   * [Using Java Builders](java-high-level-rest-client/using-java-builders.md)
-    * Building Queries
+    * [Building Queries](java-high-level-rest-client/using-java-builders/building-queries.md)
 
