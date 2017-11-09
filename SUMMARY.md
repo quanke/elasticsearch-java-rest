@@ -32,6 +32,7 @@
     * [Index API](java-high-level-rest-client/supported-apis/index-api.md)
     * [Get API](java-high-level-rest-client/supported-apis/get-api.md)
     * [Delete API](java-high-level-rest-client/supported-apis/delete-api.md)
+    * [Update API](java-high-level-rest-client/supported-apis/update-api.md)
   * [Using Java Builders](java-high-level-rest-client/using-java-builders.md)
     * [Building Queries](java-high-level-rest-client/using-java-builders/building-queries.md)
   * [Migration Guide](java-high-level-rest-client/migration-guide.md)
