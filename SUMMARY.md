@@ -12,4 +12,5 @@
   * [Getting started](java-high-level-rest-client/getting-started.md)
     * [Compatibility](java-high-level-rest-client/getting-started/compatibility.md)
   * [Supported APIs](java-high-level-rest-client/supported-apis.md)
+    * Index API
 
