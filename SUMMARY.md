@@ -6,6 +6,7 @@
     * [Javadoc](java-low-level-rest-client/getting-started/javadoc.md)
     * [Maven Repository](java-low-level-rest-client/getting-started/maven-repository.md)
     * [Dependencies](java-low-level-rest-client/getting-started/dependencies.md)
+    * [Shading](java-low-level-rest-client/getting-started/shading.md)
   * [Common configuration](java-low-level-rest-client/common-configuration.md)
     * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
   * [Sniffer](java-low-level-rest-client/sniffer.md)
