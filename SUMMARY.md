@@ -8,5 +8,6 @@
     * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
   * [Sniffer](java-low-level-rest-client/sniffer.md)
     * [Javadoc](java-low-level-rest-client/sniffer/javadoc.md)
-* Java High Level REST Client
+* [Java High Level REST Client](java-high-level-rest-client.md)
+  * [Getting started](java-high-level-rest-client/getting-started.md)
 
