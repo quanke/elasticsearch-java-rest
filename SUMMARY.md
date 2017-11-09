@@ -13,6 +13,7 @@
     * [Logging](java-low-level-rest-client/getting-started/logging.md)
   * [Common configuration](java-low-level-rest-client/common-configuration.md)
     * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
+    * [Number of threads](java-low-level-rest-client/common-configuration/number-of-threads.md)
   * [Sniffer](java-low-level-rest-client/sniffer.md)
     * [Javadoc](java-low-level-rest-client/sniffer/javadoc.md)
 * [Java High Level REST Client](java-high-level-rest-client.md)
