@@ -16,7 +16,7 @@ Java 版本最低要求 1.7
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-client</artifactId>
-    <version>5.6.0</version>
+    <version>5.6.4</version>
 </dependency>
 ```
 
@@ -26,6 +26,6 @@ Java 版本最低要求 1.7
 
 ```
 dependencies {
-    compile 'org.elasticsearch.client:elasticsearch-rest-client:5.6.0'
+    compile 'org.elasticsearch.client:elasticsearch-rest-client:5.6.4'
 }
 ```
