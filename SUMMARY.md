@@ -10,4 +10,5 @@
     * [Javadoc](java-low-level-rest-client/sniffer/javadoc.md)
 * [Java High Level REST Client](java-high-level-rest-client.md)
   * [Getting started](java-high-level-rest-client/getting-started.md)
+    * [Compatibility](java-high-level-rest-client/getting-started/compatibility.md)
 
