@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Java Low Level REST Client](java-low-level-rest-client.md)
+  * Getting started
+* Java High Level REST Client
+
