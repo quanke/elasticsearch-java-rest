@@ -20,6 +20,7 @@
   * [Sniffer](java-low-level-rest-client/sniffer.md)
     * [Javadoc](java-low-level-rest-client/sniffer/javadoc.md)
     * [Maven Repository](java-low-level-rest-client/sniffer/maven-repository.md)
+    * [Usage](java-low-level-rest-client/sniffer/usage.md)
 * [Java High Level REST Client](java-high-level-rest-client.md)
   * [Getting started](java-high-level-rest-client/getting-started.md)
     * [Compatibility](java-high-level-rest-client/getting-started/compatibility.md)
