@@ -13,4 +13,5 @@
     * [Compatibility](java-high-level-rest-client/getting-started/compatibility.md)
   * [Supported APIs](java-high-level-rest-client/supported-apis.md)
     * Index API
+  * [Using Java Builders](java-high-level-rest-client/using-java-builders.md)
 
