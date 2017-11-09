@@ -10,6 +10,7 @@
     * [Initialization](java-low-level-rest-client/getting-started/initialization.md)
     * [Performing requests](java-low-level-rest-client/getting-started/performing-requests.md)
     * [Reading responses](java-low-level-rest-client/getting-started/reading-responses.md)
+    * [Logging](java-low-level-rest-client/getting-started/logging.md)
   * [Common configuration](java-low-level-rest-client/common-configuration.md)
     * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
   * [Sniffer](java-low-level-rest-client/sniffer.md)
