@@ -42,5 +42,11 @@
     * [Building Queries](java-high-level-rest-client/using-java-builders/building-queries.md)
     * Building Aggregations
   * [Migration Guide](java-high-level-rest-client/migration-guide.md)
-    * Motivations around a new Java client
+    * [Motivations around a new Java client](java-high-level-rest-client/migration-guide/motivations-around-a-new-java-client.md)
+    * [Prerequisite](java-high-level-rest-client/migration-guide/prerequisite.md)
+    * [How to migrate](java-high-level-rest-client/migration-guide/how-to-migrate.md)
+    * [Updating the dependencies](java-high-level-rest-client/migration-guide/updating-the-dependencies.md)
+    * [Changing the client’s initialization code](java-high-level-rest-client/migration-guide/changing-the-clients-initialization-code.md)
+    * [Changing the application’s code](java-high-level-rest-client/migration-guide/changing-the-applications-code.md)
+    * [Provide feedback](java-high-level-rest-client/migration-guide/provide-feedback.md)
 
