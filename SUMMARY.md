@@ -33,8 +33,14 @@
     * [Get API](java-high-level-rest-client/supported-apis/get-api.md)
     * [Delete API](java-high-level-rest-client/supported-apis/delete-api.md)
     * [Update API](java-high-level-rest-client/supported-apis/update-api.md)
+    * [Bulk API](java-high-level-rest-client/supported-apis/bulk-api.md)
+    * [Search API](java-high-level-rest-client/supported-apis/search-api.md)
+    * [Search Scroll API](java-high-level-rest-client/supported-apis/search-scroll-api.md)
+    * [Clear Scroll API](java-high-level-rest-client/supported-apis/clear-scroll-api.md)
+    * [Info API](java-high-level-rest-client/supported-apis/info-api.md)
   * [Using Java Builders](java-high-level-rest-client/using-java-builders.md)
     * [Building Queries](java-high-level-rest-client/using-java-builders/building-queries.md)
+    * Building Aggregations
   * [Migration Guide](java-high-level-rest-client/migration-guide.md)
     * Motivations around a new Java client
 
