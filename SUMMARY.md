@@ -9,6 +9,7 @@
     * [Shading](java-low-level-rest-client/getting-started/shading.md)
     * [Initialization](java-low-level-rest-client/getting-started/initialization.md)
     * [Performing requests](java-low-level-rest-client/getting-started/performing-requests.md)
+    * [Reading responses](java-low-level-rest-client/getting-started/reading-responses.md)
   * [Common configuration](java-low-level-rest-client/common-configuration.md)
     * [Timeouts](java-low-level-rest-client/common-configuration/timeouts.md)
   * [Sniffer](java-low-level-rest-client/sniffer.md)
